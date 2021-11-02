@@ -18,7 +18,7 @@ Model: https://extraction.ereefs.aims.gov.au/extract-data#select-sites
 
 Data Server: https://thredds.ereefs.aims.gov.au/thredds/s3catalogue/aims-ereefs-public-prod/derived/ncaggregate/ereefs/GBR4_H2p0_B3p1_Cq3b_Dhnd/catalog.html
 
-## Summary of the annlysis
+## Summary of the analysis
 The 4 kilometer grid size hydrodynamic model was used in this research and temperature was selected as the variable to look into the temporal trends of the impact on the water quality. For the biogeochemical model, we used the Baseline catchment scenario (q3b) and selected the following variables. PAR (photosynthetically available radiation) and Secchi (the depth that a Secchi disk is visible from the sea surface) were chosen to reflect the turbidity of the waters as indicators to eutrophication. Dissolved inorganic nitrogen (DIN) and chlorophyll concentration were selected to represent the impacts of nutrients. Total suspended solids (TSS) was a measure of the impacts of sediments on the water quality.
 
 To demonstrate the spatial and temporal variability among the three sites over the year, line charts were created for the variables. Then the temporal variability of water quality in the Mackay area was investigated by comparing the distribution of variables by using maps. At last, the relationships between water quality and nutrients and sediments were revealed by the correlations between PAR / Secchi and other three variables.
